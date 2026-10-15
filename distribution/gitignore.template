@@ -1,0 +1,12 @@
+/dist/
+/controller-lab/backups/
+/controller-lab/built/
+/controller-lab/tools/
+/controller-lab/native/*.dll
+/controller-lab/native/*.exe
+/controller-lab/native/*.lib
+/controller-lab/native/*.pdb
+__pycache__/
+*.pyc
+*.log
+*.tmp
