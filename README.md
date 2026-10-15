@@ -13,6 +13,11 @@ dialogue, menu navigation and a compact two-page radial menu.
 Extract the complete ZIP and run **Install.cmd**.
 
 The source ZIP is for developers and is not a ready-to-install package.
+## Screenshots
+
+<img width="1919" height="1079" alt="Screenshot 2026-10-15 164750" src="https://github.com/user-attachments/assets/43535f1c-fd88-41dd-8664-3f98a46e8fba" />
+<img width="1919" height="1079" alt="Screenshot 2026-10-15 164739" src="https://github.com/user-attachments/assets/b5bbfcef-6fea-4130-ae13-04763a76fe40" />
+
 
 ## Install and start
 
