@@ -117,13 +117,4 @@ python -B controller-lab/test_menu_navigation.py
 python -B controller-lab/test_distribution.py
 ```
 
-Developer notes are included as controller-lab/PROTOTYPE.md in the source package.
 
-## Publish on GitHub
-
-Commit the extracted source ZIP contents to the repository. Create a pre-release
-tagged **v0.1.31** and attach the preview ZIP, source ZIP and SHA256SUMS.txt.
-Do not upload copied game files, stock UI, backups, tools, logs or save profiles.
-The packages include the mod's own circle/selection graphics; stock game icons
-are loaded from the user's installation. No game archives or saves are bundled.
-No publishing occurs automatically. The author's license choice remains deferred.
