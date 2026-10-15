@@ -6,12 +6,13 @@ dialogue, menu navigation and a compact two-page radial menu.
 
 **[Complete controls](CONTROLS.md)** | **[Release notes](RELEASE-NOTES.md)**
 
-## Choose the correct download
+## Download
 
-- **PSTEE-Xbox-Controller-v0.1.31-preview.zip**: ready-to-install mod.
-- **PSTEE-Xbox-Controller-v0.1.31-source.zip**: source project for GitHub and
-  compiling. It does not contain manifest.json or compiled payload files.
-  Do not run distribution/Install.cmd from this archive.
+[**Download v0.1.31 for Windows — ready to install**](https://github.com/NiksonLichev/planescape-torment-enhanced-edition-xbox-controller-mod/releases/download/v0.1.31/PSTEE-Xbox-Controller-v0.1.31-preview.zip)
+
+Extract the complete ZIP and run **Install.cmd**.
+
+The source ZIP is for developers and is not a ready-to-install package.
 
 ## Install and start
 
