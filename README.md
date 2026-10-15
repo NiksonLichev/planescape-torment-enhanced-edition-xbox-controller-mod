@@ -123,4 +123,6 @@ python -B controller-lab/test_menu_navigation.py
 python -B controller-lab/test_distribution.py
 ```
 
+## Credits
 
+Created by NiksonLichev with development assistance from OpenAI Codex.
